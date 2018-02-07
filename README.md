@@ -24,9 +24,9 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <table>
 <!-- <caption>2x2 images in a table</caption> -->
 <colgroup>
-<col width="50%" />
+<col width="20%" />
 <col width="1%" />
-<col width="10%" />
+<col width="50%" />
 </colgroup>
 <tbody>
 <tr class="Input">
