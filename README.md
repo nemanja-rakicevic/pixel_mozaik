@@ -3,11 +3,15 @@
 Just a simple script to which you provide a photo, and it returns the same photo but as a mosaic of your favourite thing of the day.
 
 
-![GitHub Logo](/example_images/Arnold.jpg) ![GitHub Logo](/example_images/right_arrow.svg) ![GitHub Logo](/example_images/Arnold_mozaikd.jpg) 
+![Input](/original_images/Arnold2.jpg) 
+![](/example_images/right_arrow.svg| width=100) 
+![Output](/example_images/Arnold2_mozaikd.jpg) 
 
 
 
-![GitHub Logo](/example_images/Godfather.jpg) ![GitHub Logo](/example_images/right_arrow.svg) ![GitHub Logo](/example_images/Godfather_mozaikd.jpg) 
+![GitHub Logo](/original_images/Godfather.jpg) 
+![](/example_images/right_arrow.svg| width=100)
+![GitHub Logo](/example_images/Godfather_mozaikd.jpg) 
 
 
 ### Example
