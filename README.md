@@ -21,16 +21,25 @@ Just a simple script to which you provide a photo, and it returns the same photo
  -->
 
 
-<img src="original_images/Arnold2.jpg" alt="Arnold" width="400" align='left'/> 
-<img src="example_images/right_arrow.svg" alt="ra" width="50" align='center'/> 
-<img src="example_images/Arnold2_mozaikd.jpg" alt="Arnold_mozaik" width="400" align='right'/> 
 
+<table>
+<caption>2x2 images in a table</caption>
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
+<td align="left"><img src="original_images/Arnold2.jpg" alt="" /></td>
+</tr>
+<tr class="even">
+<td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
+<td align="left"><img src="original_images/Arnold2.jpg" alt="" /></td>
+</tr>
+</tbody>
+</table>
 
-
-
-<img src="original_images/Godfather.jpg" alt="Arnold" width="400" align='left'/> 
-<!-- <img src="example_images/right_arrow.svg" alt="ra" width=5% align='center'/>  -->
-<img src="example_images/Godfather_mozaikd.jpg" alt="Arnold_mozaik" width="400" align='right'/> 
 
 
 ------
