@@ -28,7 +28,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <col width="5%" />
 <col width="65%" />
 </colgroup>
-<tbody>
+<!-- <tbody> -->
 <tr>
 <td align="center"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
@@ -39,7 +39,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="center"><img src="example_images/Godfather_mozaikd.jpg" alt=""  /></td>
 </tr>
-</tbody>
+<!-- </tbody> -->
 </table>
 
 
