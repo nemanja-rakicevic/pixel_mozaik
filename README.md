@@ -21,7 +21,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 
 
-<table border="5" style="background-color:rgba(1, 0, 0, 0);">
+<table border=0px bgcolor="#FFF">
 <!-- <caption>2x2 images in a table</caption> -->
 <colgroup>
 <col width="30%" />
