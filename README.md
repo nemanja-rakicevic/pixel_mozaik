@@ -21,14 +21,14 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 
 
-<table border="0" style="background-color:rgba(0, 0, 0, 0);">
+<table border="5" style="background-color:rgba(1, 0, 0, 0);">
 <!-- <caption>2x2 images in a table</caption> -->
 <colgroup>
 <col width="30%" />
 <col width="5%" />
-<col width="65%" />
+<col width="30%" />
 </colgroup>
-<!-- <tbody> -->
+<tbody>
 <tr>
 <td align="center"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
@@ -39,7 +39,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="center"><img src="example_images/Godfather_mozaikd.jpg" alt=""  /></td>
 </tr>
-<!-- </tbody> -->
+</tbody>
 </table>
 
 
