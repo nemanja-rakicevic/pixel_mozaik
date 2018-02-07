@@ -7,7 +7,6 @@ Just a simple script to which you provide a photo, and it returns the same photo
 ### Example
 `python mozaik.py -i "Arnold.jpg" -g "pug"`
 
-------
 <!-- 
 
 <img src="original_images/Arnold2.jpg" alt="Arnold" width=40% align='left'/> 
@@ -23,18 +22,21 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 
 <table>
-<caption>2x2 images in a table</caption>
+<!-- <caption>2x2 images in a table</caption> -->
 <colgroup>
+<col width="20%" />
 <col width="20%" />
 <col width="20%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr class="Input">
 <td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
+<td align="center"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="left"><img src="original_images/Arnold2.jpg" alt="" /></td>
 </tr>
-<tr class="even">
+<tr class="Output">
 <td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
+<td align="center"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="left"><img src="original_images/Arnold2.jpg" alt="" /></td>
 </tr>
 </tbody>
