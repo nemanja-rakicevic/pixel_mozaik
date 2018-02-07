@@ -26,17 +26,17 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <colgroup>
 <col width="20%" />
 <col width="1%" />
-<col width="50%" />
+<col width="80%" />
 </colgroup>
 <tbody>
 <tr class="Input">
 <td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
-<td align="center"><img src="example_images/r.jpg" alt="" /></td>
+<td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="left"><img src="example_images/Arnold2_mozaikd.jpg" alt="" /></td>
 </tr>
 <tr class="Output">
 <td align="right"><img src="original_images/Godfather.jpg" alt="" /></td>
-<td align="center"><img src="example_images/r.jpg" alt="" /></td>
+<td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="left"><img src="example_images/Godfather_mozaikd.jpg" alt="" /></td>
 </tr>
 </tbody>
