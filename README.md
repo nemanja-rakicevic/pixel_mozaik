@@ -7,14 +7,15 @@ Just a simple script to which you provide a photo, and it returns the same photo
 `python mozaik.py -i "Arnold.jpg" -g "pug"`
 
 
-![Input](original_images/Arnold2.jpg | width=100) 
-![r](example_images/right_arrow.svg| width=100) 
-![Output](example_images/Arnold2_mozaikd.jpg | width=100) 
+
+<img src="original_images/Arnold2.jpg" alt="Arnold" width=40% align='left'/> 
+<img src="example_images/right_arrow.svg" alt="ra" width=5% align='center'/> 
+<img src="example_images/Arnold2_mozaikd.jpg" alt="Arnold_mozaik" width=40% align='right'/> 
 
 
-![GitHub Logo](original_images/Godfather.jpg) 
-![r](example_images/right_arrow.svg| width=100)
-![GitHub Logo](example_images/Godfather_mozaikd.jpg) 
+<img src="original_images/Godfather.jpg" alt="Arnold" width=40% align='left'/> 
+<img src="example_images/right_arrow.svg" alt="ra" width=5% align='center'/> 
+<img src="example_images/Godfather_mozaikd.jpg" alt="Arnold_mozaik" width=40% align='right'/> 
 
 
 ### Requirements
