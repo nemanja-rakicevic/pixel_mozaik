@@ -23,7 +23,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 <table>
 <!-- <caption>2x2 images in a table</caption> -->
-<<!-- colgroup>
+<!-- colgroup>
 <col width="20%" />
 <col width="1%" />
 <col width="80%" />
@@ -32,12 +32,12 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <tr class="Input">
 <td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
-<td align="left"><img src="example_images/Arnold2_mozaikd.jpg" alt="" /></td>
+<td align="left"><img src="example_images/Arnold2_mozaikd.jpg" alt="" width=40% /></td>
 </tr>
 <tr class="Output">
 <td align="right"><img src="original_images/Godfather.jpg" alt="" /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
-<td align="left"><img src="example_images/Godfather_mozaikd.jpg" alt="" /></td>
+<td align="left"><img src="example_images/Godfather_mozaikd.jpg" alt="" width=40% /></td>
 </tr>
 </tbody>
 </table>
