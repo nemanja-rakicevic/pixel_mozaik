@@ -1,24 +1,12 @@
 # Mozaik
 
 Just a simple script to which you provide a photo, and it returns the same photo but as a mosaic of your favourite thing of the day.
+Zoom in.
 
 ------
 
 ### Example
 `python mozaik.py -i "Arnold.jpg" -g "pug"`
-
-<!-- 
-
-<img src="original_images/Arnold2.jpg" alt="Arnold" width=40% align='left'/> 
-<img src="example_images/right_arrow.svg" alt="ra" width=5% align='center'/> 
-<img src="example_images/Arnold2_mozaikd.jpg" alt="Arnold_mozaik" width=55% align='right'/> 
-
-
-<img src="original_images/Godfather.jpg" alt="Arnold" width=40% align='left'/> 
-<img src="example_images/right_arrow.svg" alt="ra" width=5% align='center'/>  
-<img src="example_images/Godfather_mozaikd.jpg" alt="Arnold_mozaik" width=55% align='right'/> 
- -->
-
 
 
 <table border=0px bgcolor="#FFF">
@@ -41,7 +29,6 @@ Just a simple script to which you provide a photo, and it returns the same photo
 </tr>
 </tbody>
 </table>
-
 
 
 ------
