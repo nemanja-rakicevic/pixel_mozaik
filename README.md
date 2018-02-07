@@ -22,7 +22,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 
 <img src="original_images/Arnold2.jpg" alt="Arnold" width="400" align='left'/> 
-<!-- <img src="example_images/right_arrow.svg" alt="ra" width=5% align='center'/>  -->
+<img src="example_images/right_arrow.svg" alt="ra" width="50" align='center'/> 
 <img src="example_images/Arnold2_mozaikd.jpg" alt="Arnold_mozaik" width="400" align='right'/> 
 
 
