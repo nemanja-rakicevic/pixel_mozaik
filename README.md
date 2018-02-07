@@ -22,18 +22,6 @@ Zoom in.
 <td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="center"><img src="example_images/Arnold2_mozaikd.jpg" alt="" /></td>
 </tr>
-</tbody>
-</table>
-
-
-<table border=0px bgcolor="#FFF">
-<!-- <caption>2x2 images in a table</caption> -->
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-<tbody>
 <tr>
 <td align="center"><img src="original_images/Godfather.jpg" alt=""  /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
