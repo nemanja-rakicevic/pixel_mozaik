@@ -23,11 +23,11 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 <table>
 <!-- <caption>2x2 images in a table</caption> -->
-<colgroup>
+<<!-- colgroup>
 <col width="20%" />
 <col width="1%" />
 <col width="80%" />
-</colgroup>
+</colgroup> -->
 <tbody>
 <tr class="Input">
 <td align="right"><img src="original_images/Arnold2.jpg" alt="" /></td>
