@@ -6,6 +6,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 ### Example
 `python mozaik.py -i "Arnold.jpg" -g "pug"`
 
+------
 
 
 <img src="original_images/Arnold2.jpg" alt="Arnold" width=40% align='left'/> 
@@ -13,6 +14,7 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <img src="example_images/Arnold2_mozaikd.jpg" alt="Arnold_mozaik" width=55% align='right'/> 
 
 
+------
 
 
 <img src="original_images/Godfather.jpg" alt="Arnold" width=40% align='left'/> 
