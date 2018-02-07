@@ -23,21 +23,21 @@ Just a simple script to which you provide a photo, and it returns the same photo
 
 <table>
 <!-- <caption>2x2 images in a table</caption> -->
-<!-- colgroup>
-<col width="20%" />
-<col width="1%" />
-<col width="80%" />
-</colgroup> -->
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="65%" />
+</colgroup>
 <tbody>
 <tr class="Input">
-<td align="center"><img src="original_images/Arnold2.jpg" alt=""  width=110% /></td>
+<td align="center"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
-<td align="center"><img src="example_images/Arnold2_mozaikd.jpg" alt="" width=80% /></td>
+<td align="center"><img src="example_images/Arnold2_mozaikd.jpg" alt="" /></td>
 </tr>
 <tr class="Output">
-<td align="center"><img src="original_images/Godfather.jpg" alt=""  width=110% /></td>
+<td align="center"><img src="original_images/Godfather.jpg" alt=""  /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
-<td align="center"><img src="example_images/Godfather_mozaikd.jpg" alt="" width=80% /></td>
+<td align="center"><img src="example_images/Godfather_mozaikd.jpg" alt=""  /></td>
 </tr>
 </tbody>
 </table>
