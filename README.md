@@ -29,12 +29,12 @@ Just a simple script to which you provide a photo, and it returns the same photo
 <col width="65%" />
 </colgroup>
 <tbody>
-<tr class="Input">
+<tr>
 <td align="center"><img src="original_images/Arnold2.jpg" alt="" /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="center"><img src="example_images/Arnold2_mozaikd.jpg" alt="" /></td>
 </tr>
-<tr class="Output">
+<tr>
 <td align="center"><img src="original_images/Godfather.jpg" alt=""  /></td>
 <td align="center"><img src="example_images/r.png" alt="" /></td>
 <td align="center"><img src="example_images/Godfather_mozaikd.jpg" alt=""  /></td>
